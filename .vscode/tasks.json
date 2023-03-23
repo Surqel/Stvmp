@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "/Users/yasseraly/Documents/WGET/Test/www.apres.io",
+			"problemMatcher": [
+				"$gulp-tsc"
+			],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
